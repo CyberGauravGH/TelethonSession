@@ -1,0 +1,5 @@
+# requirements.txt
+Flask==3.0.0
+telethon==1.28.5
+pysocks==1.7.1
+cryptography==41.0.7
